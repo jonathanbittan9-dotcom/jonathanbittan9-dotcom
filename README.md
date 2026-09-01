@@ -1,4 +1,13 @@
 ## Hi there 👋
+##i am a teenager who is self-taught coding learner, here you can find my projects:
+i work on discord bots, websites and AI.
+i work with: python , html , css and a bit js.
+also here you will found the way i learn coding.
+i would love to hear an advice from a professional coders!
+you can dm me on discord for bussiness and help!
+linux56727292
+
+
 
 <!--
 **jonathanbittan9-dotcom/jonathanbittan9-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
