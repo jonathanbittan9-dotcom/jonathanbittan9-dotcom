@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## i work with:
 <p align = "center">
-  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLinux&ved=0CBcQjRxqFwoTCODSh9XBmJcDFQAAAAAdAAAAABBp&opi=89978449" />
+  <img src=https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1280px-Tux.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" />
 </p>
   ## i am a teenager who is self-taught coding learner, here you can find my projects:
 <p align = "center">i work on discord bots, websites and AI.</p>
