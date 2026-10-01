@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## i am a teenager who is self-taught coding learner, here you can find my projects:
-i work on discord bots, websites and AI.
+<p align = "center">i work on discord bots, websites and AI.</p>
 i work with: python , html , css and a bit js.
 also here you will found the way i learn coding.
 i would love to hear an advice from a professional coders!
