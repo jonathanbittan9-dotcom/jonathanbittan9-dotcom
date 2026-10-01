@@ -5,10 +5,10 @@
 </p>
 
 
-## i am a teenager who is self-taught coding learner, here you can find my projects:
-## I work on discord bots, websites and AI.
-## (hoping to work with c to contribute the Linux open source project in the future :D)
-## also here you will found the way i learn coding.
-## i would love to hear an advice from a professional coders!
-## you can dm me on discord for bussiness and help!
-## linux56727292</h1>
+### i am a teenager who is self-taught coding learner, here you can find my projects:
+### I work on discord bots, websites and AI.
+### (hoping to work with c to contribute the Linux open source project in the future :D)
+### also here you will found the way i learn coding.
+### I would love to hear an advice from a professional coders!
+### you can dm me on discord for bussiness and help!
+### linux56727292</h1>
