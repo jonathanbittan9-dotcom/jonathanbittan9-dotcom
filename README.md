@@ -5,7 +5,7 @@
 </p>
 
 
-###i am a teenager who is self-taught coding learner, here you can find my projects:
+### i am a teenager who is self-taught coding learner, here you can find my projects:
 ### I work on discord bots, websites and AI.
 ### (hoping to work with c to contribute the Linux open source project in the future :D)
 ### also here you will found the way i learn coding.
