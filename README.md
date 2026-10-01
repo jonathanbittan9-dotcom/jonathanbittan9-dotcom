@@ -9,7 +9,7 @@
 ### I am a teenager who is self-taught coding learner, here you can find my projects:
 ### I work on discord bots, websites and AI.
 ### (hoping to work with c to contribute the Linux open source project in the future :D)
-### Also here you will found the way i learn coding.
+### Also here you will found the way I learn coding.
 ### I would love to hear an advice from a professional coders!
 ### You can dm me on discord for bussiness and help!
 ### linux56727292</h1>
